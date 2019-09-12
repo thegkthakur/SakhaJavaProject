@@ -1,4 +1,4 @@
-# SakhaJavaProject (EMployee Management System)
+# SakhaJavaProject (Employee Management System)
 
 # Introduction
 This repo contains the codebase of the project done during the "Sakha Global Java Training" Program.
